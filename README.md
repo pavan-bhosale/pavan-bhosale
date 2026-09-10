@@ -1,27 +1,219 @@
-# 💫 About Me:
-College student in Computer Science and Data Structures<br>Python developer <br>AI/Ml 
+# 👋 Hey, I'm Pavan Bhosale
 
+### 💻 Full-Stack Developer • 🤖 AI/ML Explorer • 🛡️ Security Enthusiast
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/navapx3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-bhosale-53362b31a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Pavan_Bhosale_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavan.234036101@vcet.edu.in) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Full-Stack+%7C+AI%2FML+%7C+Cybersecurity;Learning.+Building.+Breaking.+Improving.;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pavan-bhosale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pavan-bhosale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-bhosale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pavan-bhosale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pavan-bhosale&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pavan-bhosale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+🎓 I'm a **Computer Science & Data Science Engineering student** passionate about building technology that solves real-world problems.
+
+💻 I enjoy working across the stack — from creating modern interfaces to building backend systems and APIs.
+
+🤖 Currently exploring **AI/ML, RAG systems, intelligent applications, and AI-powered workflows**.
+
+🛡️ I'm also interested in **cybersecurity**, particularly intelligent security systems, firewalls, threat analysis, and retrieval-based security solutions.
+
+🔍 I enjoy understanding **how things work under the hood**, experimenting with new technologies, and turning complex ideas into working products.
+
+> 🚀 **I don't just want to write code. I want to build things worth using.**
+
+---
+
+## ⚡ Tech Stack
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+**Exploring:**
+`Machine Learning` • `RAG` • `LLM Applications` • `AI Agents` • `Vector Search`
+
+### 🗄️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### 🛠️ Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 NeuroNotes
+
+> **AI-powered knowledge & note-taking platform**
+
+A smart platform designed around the idea of combining **knowledge management with AI**.
+
+### ✨ Focus Areas
+
+* 🧠 AI-powered knowledge processing
+* 🔎 Intelligent information retrieval
+* 📚 Knowledge organization
+* ⚡ Modern web experience
+* 🤖 AI-assisted workflows
+
+---
+
+## 🌱 GreenCode
+
+> **Technology with sustainability in mind**
+
+A project exploring how software and technology can be used to create more **sustainable and intelligent solutions**.
+
+### ✨ Focus Areas
+
+* 🌱 Sustainable technology
+* 💻 Web development
+* 📊 Data-driven solutions
+* 🧠 Intelligent features
+* 🌍 Real-world impact
+
+---
+
+## 🛡️ Intelligent Firewall + RAG System
+
+> **Exploring the intersection of cybersecurity and AI**
+
+A security-focused project combining **firewall concepts with Retrieval-Augmented Generation (RAG)** to explore intelligent approaches to security analysis.
+
+### ✨ Focus Areas
+
+* 🛡️ Firewall systems
+* 🔐 Security analysis
+* 🤖 RAG
+* 🔎 Retrieval systems
+* 🧠 AI-assisted threat understanding
+
+---
+
+# 🧩 What I'm Currently Exploring
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│  🤖 Artificial Intelligence                  │
+│  🔎 Retrieval-Augmented Generation           │
+│  🛡️ Cybersecurity & Firewalls               │
+│  🌐 Full-Stack Web Applications              │
+│  🧠 Intelligent Systems                       │
+│  ⚙️ Backend Architecture                     │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+I'm particularly interested in the space where:
+
+**Software Engineering × AI × Data × Security**
+
+come together. 🚀
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🧑‍💻 My Developer Philosophy
+
+```javascript
+const pavan = {
+    role: "Developer",
+    interests: [
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Cybersecurity"
+    ],
+
+    mindset: [
+        "Keep Learning",
+        "Build Real Things",
+        "Understand the Fundamentals",
+        "Solve Problems",
+        "Keep Improving"
+    ],
+
+    currentMission:
+        "Turn ideas into useful technology 🚀"
+};
+```
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 "Learn. Build. Break. Improve. Repeat." 🚀
+
+**Thanks for stopping by! ⭐**
+
+</p>
