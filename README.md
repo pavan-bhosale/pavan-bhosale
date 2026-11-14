@@ -10,7 +10,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Welcome There☕👀; <br>I'm Pavan Bhosale😼;</h1>
+<h3 data-importer="text" align="center">Welcome There☕👀; <br>I'm Pavan Bhosale😼;</h3>
 
 ###
 
@@ -94,9 +94,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+<br clear="both">
+
 ###
 
-<h4 data-importer="text" align="left">👀Things I'm Into (interests) {<br>•  Full-Stack Development <br>•  Artificial Intelligence <br>•  Problem Solving <br>• Open Source Contributions<br>• Chocolate Pastries<br>}</h4>
+<h4 data-importer="text" align="left">👀 Things I'm Into (interests) {<br>•  Full-Stack Development <br>•  Artificial Intelligence <br>•  Problem Solving <br>• Open Source Contributions<br>• Chocolate Pastries<br>}</h4>
 
 ###
 
