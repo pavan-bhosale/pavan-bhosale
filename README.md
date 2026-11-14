@@ -1,219 +1,136 @@
-# 👋 Hey, I'm Pavan Bhosale
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-### 💻 Full-Stack Developer • 🤖 AI/ML Explorer • 🛡️ Security Enthusiast
+###
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Full-Stack+%7C+AI%2FML+%7C+Cybersecurity;Learning.+Building.+Breaking.+Improving.;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+<br clear="both">
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img data-importer="image" align="right" height="250" src="https://media1.tenor.com/m/wehoMSbigUcAAAAd/gojo-dance-cute.gif"  />
+
+###
+
+<h1 data-importer="text" align="center">Welcome There☕👀; <br>I'm Pavan Bhosale😼;</h1>
+
+###
+
+<h3 data-importer="text" align="left">🧬Tech I have worked with (skills 😋) 🧪{</h3>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">}</h3>
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavan-bhosale/pavan-bhosale/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavan-bhosale/pavan-bhosale/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pavan-bhosale/pavan-bhosale/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="image" align="left" height="176" src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif"  />
+
+###
+
+<h3 data-importer="text" align="center">🧐 Figuring Out && Interests 🕵️‍♀️</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="left">👀Things I'm Into (interests) {<br>•  Full-Stack Development <br>•  Artificial Intelligence <br>•  Problem Solving <br>• Open Source Contributions<br>• Chocolate Pastries<br>}</h4>
+
+###
+
+<div data-importer="stats" align="right">
+  <img src="https://raw.githubusercontent.com/pavan-bhosale/pavan-bhosale/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=buefy&hide_border=true&order=2" height="300" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="stats" align="right">
+  <img src="https://raw.githubusercontent.com/pavan-bhosale/pavan-bhosale/activity-graph-output/activity-graph.svg?radius=16&theme=cotton-candy&area=true&order=5&hide_border=true&hide_title=false&custom_title=CONTRIBUTION%20GRAPH" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="image" align="right" height="200" src="https://media1.tenor.com/m/ktle_yw1QxEAAAAC/bye-finger-gun.gif"  />
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://discord.com/users/1374148993919225966" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
   </a>
-</p>
+  <a href="https://www.instagram.com/pavanlo_ol/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="instagram logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🧠 About Me
+<br clear="both">
 
-🎓 I'm a **Computer Science & Data Science Engineering student** passionate about building technology that solves real-world problems.
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-💻 I enjoy working across the stack — from creating modern interfaces to building backend systems and APIs.
-
-🤖 Currently exploring **AI/ML, RAG systems, intelligent applications, and AI-powered workflows**.
-
-🛡️ I'm also interested in **cybersecurity**, particularly intelligent security systems, firewalls, threat analysis, and retrieval-based security solutions.
-
-🔍 I enjoy understanding **how things work under the hood**, experimenting with new technologies, and turning complex ideas into working products.
-
-> 🚀 **I don't just want to write code. I want to build things worth using.**
-
----
-
-## ⚡ Tech Stack
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-**Exploring:**
-`Machine Learning` • `RAG` • `LLM Applications` • `AI Agents` • `Vector Search`
-
-### 🗄️ Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-### 🛠️ Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 NeuroNotes
-
-> **AI-powered knowledge & note-taking platform**
-
-A smart platform designed around the idea of combining **knowledge management with AI**.
-
-### ✨ Focus Areas
-
-* 🧠 AI-powered knowledge processing
-* 🔎 Intelligent information retrieval
-* 📚 Knowledge organization
-* ⚡ Modern web experience
-* 🤖 AI-assisted workflows
-
----
-
-## 🌱 GreenCode
-
-> **Technology with sustainability in mind**
-
-A project exploring how software and technology can be used to create more **sustainable and intelligent solutions**.
-
-### ✨ Focus Areas
-
-* 🌱 Sustainable technology
-* 💻 Web development
-* 📊 Data-driven solutions
-* 🧠 Intelligent features
-* 🌍 Real-world impact
-
----
-
-## 🛡️ Intelligent Firewall + RAG System
-
-> **Exploring the intersection of cybersecurity and AI**
-
-A security-focused project combining **firewall concepts with Retrieval-Augmented Generation (RAG)** to explore intelligent approaches to security analysis.
-
-### ✨ Focus Areas
-
-* 🛡️ Firewall systems
-* 🔐 Security analysis
-* 🤖 RAG
-* 🔎 Retrieval systems
-* 🧠 AI-assisted threat understanding
-
----
-
-# 🧩 What I'm Currently Exploring
-
-```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│  🤖 Artificial Intelligence                  │
-│  🔎 Retrieval-Augmented Generation           │
-│  🛡️ Cybersecurity & Firewalls               │
-│  🌐 Full-Stack Web Applications              │
-│  🧠 Intelligent Systems                       │
-│  ⚙️ Backend Architecture                     │
-│                                               │
-└───────────────────────────────────────────────┘
-```
-
-I'm particularly interested in the space where:
-
-**Software Engineering × AI × Data × Security**
-
-come together. 🚀
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🧑‍💻 My Developer Philosophy
-
-```javascript
-const pavan = {
-    role: "Developer",
-    interests: [
-        "Full-Stack Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Cybersecurity"
-    ],
-
-    mindset: [
-        "Keep Learning",
-        "Build Real Things",
-        "Understand the Fundamentals",
-        "Solve Problems",
-        "Keep Improving"
-    ],
-
-    currentMission:
-        "Turn ideas into useful technology 🚀"
-};
-```
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💡 "Learn. Build. Break. Improve. Repeat." 🚀
-
-**Thanks for stopping by! ⭐**
-
-</p>
+###
