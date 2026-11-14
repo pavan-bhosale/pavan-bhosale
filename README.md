@@ -10,7 +10,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Welcome There☕👀; <br>I'm Pavan Bhosale😼;</h1>
+<h2 data-importer="text" align="center">Welcome There☕👀; <br>I'm Pavan Bhosale😼;</h2>
 
 ###
 
