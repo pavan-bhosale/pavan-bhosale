@@ -10,7 +10,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Welcome There☕👀; <br>I'm Pavan Bhosale😼;</h3>
+<h1 data-importer="text" align="center">Welcome There☕👀; <br>I'm Pavan Bhosale😼;</h1>
 
 ###
 
@@ -98,7 +98,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">👀 Things I'm Into (interests) {<br>•  Full-Stack Development <br>•  Artificial Intelligence <br>•  Problem Solving <br>• Open Source Contributions<br>• Chocolate Pastries<br>}</h4>
+<h3 data-importer="text" align="left">👀 Things I'm Into (interests) {<br>•  Full-Stack Development <br>•  Artificial Intelligence <br>•  Problem Solving <br>• Open Source Contributions<br>• Chocolate Pastries<br>}</h3>
 
 ###
 
